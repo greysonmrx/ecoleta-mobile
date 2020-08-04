@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-  <img alt="Preview" width="277px" src="./.github/ecoleta-mobile1.gif"/>
-  <img alt="Preview" width="277px" src="./.github/ecoleta-mobile2.gif"/>
-  <img alt="Preview" width="277px" src="./.github/ecoleta-mobile3.gif"/>
+  <img alt="Preview" width="275px" src="./.github/ecoleta-mobile1.gif"/>
+  <img alt="Preview" width="275px" src="./.github/ecoleta-mobile2.gif"/>
+  <img alt="Preview" width="275px" src="./.github/ecoleta-mobile3.gif"/>
 </p>
 
 ## :rocket: Technologies
